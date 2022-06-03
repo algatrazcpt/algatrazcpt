@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Atakan
 - 🌱 I’m currently learning Unity Game Develop
 - 👀 I’m interested in C#,Python,Arduino
--
-- 📫 How to reach me Python
 - Connect me 
  captainalgatraz@gmail.com
  -My Game Portfolio 
