@@ -1,9 +1,12 @@
 - 👋 Hi, I’m Atakan
-- 👀 I’m interested in C#,Python,Arduino
 - 🌱 I’m currently learning Unity Game Develop
+- 👀 I’m interested in C#,Python,Arduino
+-
 - 📫 How to reach me Python
 - Connect me 
  captainalgatraz@gmail.com
+ -My Game Portfolio 
+ https://algatrazcpt.itch.io
 
 
 <img align="left" alt="Python" width="120px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
