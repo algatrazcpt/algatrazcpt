@@ -3,7 +3,7 @@
 - 👀 I’m interested in C#,Python,Arduino
 - Connect me 
  captainalgatraz@gmail.com
- -My Game Portfolio 
+ - My Game Portfolio 
  https://algatrazcpt.itch.io
 
 
