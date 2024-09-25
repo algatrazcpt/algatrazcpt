@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Atakan
-- 🌱 I’m currently learning Game Develop
+- 🌱 I’m currently learning Game development,Backend Web development
 - 👀 I’m interested in Unreal,Unity,Python,Arduino,Blender
 - Connect me 
  captainalgatraz@gmail.com
