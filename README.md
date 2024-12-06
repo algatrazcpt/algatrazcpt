@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Atakan
+# 👋 Hi, I’m Atakan
 - 🌱 I’m currently learning Backend Web development, Game development
 - 👀 I’m interested in Unreal,Unity,Python,Blender
 - Connect me 
