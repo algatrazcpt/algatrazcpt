@@ -19,9 +19,3 @@ C#, ASP.NET, Unreal, Unity, Python
 
 </p>
 
-## Araçlar
-Blender, PostgreSQL, Visual Studio
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" alt="Blender" width="70" height="70"/>
-</p>
