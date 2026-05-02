@@ -1,5 +1,4 @@
 # 👋 Hi, I’m Atakan
-- 🌱 I’m currently learning Backend Web development, Game development
 - 👀 I’m interested in Unreal,Unity,Python,Blender
 - Connect me 
  captainalgatraz@gmail.com
@@ -25,6 +24,4 @@ Blender, PostgreSQL, Visual Studio
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" alt="Blender" width="70" height="70"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="70" height="70"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Visual_Studio_Icon_2022.svg" alt="Visual Studio" width="70" height="70"/>
 </p>
